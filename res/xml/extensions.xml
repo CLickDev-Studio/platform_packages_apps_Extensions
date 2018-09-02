@@ -61,6 +61,9 @@
     android:key="perf_category"
     android:icon="@drawable/ic_perf_category"
     android:title="@string/perf_category"
-    android:summary="@string/perf_summary"
-    android:fragment="com.omarea.kernel.ui.MainActivity"/>
+    android:summary="@string/perf_summary">
+	<intent android:targetPackage="net.clickdev.performencecenter" 
+		android:action="android.intent.action.MAIN" 
+		android:targetClass="com.omarea.kernel.ui.MainActivity" />
+</org.aospextended.extensions.preference.CardviewPreference>
 </PreferenceScreen>
