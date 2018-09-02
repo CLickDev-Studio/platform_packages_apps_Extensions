@@ -57,6 +57,8 @@
   <string name="system_animations">系统动画</string>
   <string name="listview">列表视图</string>
   <string name="notifications_panel_category_summary">自定义您的快速设置和通知面板</string>
+  <string name="perf_category">性能设置</string>
+  <string name="perf_summary">调校设备的性能</string>
   <!-- Frags -->
   <!-- General Tweaks -->
   <string name="general_tweaks_title">常规设置</string>

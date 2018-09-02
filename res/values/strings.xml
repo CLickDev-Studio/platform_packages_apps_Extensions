@@ -59,7 +59,8 @@
     <string name="build_tweaks_summary_title">Extend your device!</string>
     <string name="system_animations">System Animations</string>
     <string name="listview">ListView</string>
-
+    <string name="perf_category">Performance</string>
+    <string name="perf_summary">Turn your device's performance</string>
     <!-- Frags -->
     <!-- General Tweaks -->
     <string name="general_tweaks_title">General Tweaks</string>
