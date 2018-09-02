@@ -56,6 +56,7 @@
   <string name="build_tweaks_summary_title">扩展您的设备!</string>
   <string name="system_animations">系统动画</string>
   <string name="listview">列表视图</string>
+  <string name="notifications_panel_category_summary">自定义您的快速设置和通知面板</string>
   <!-- Frags -->
   <!-- General Tweaks -->
   <string name="general_tweaks_title">常规设置</string>
